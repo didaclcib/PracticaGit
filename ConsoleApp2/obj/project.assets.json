@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\Documents\\GitHub\\PracticaGit\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\PracticaGit\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\Alumno\\Documents\\GitHub\\PracticaGit\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectPath": "C:\\Users\\Alumno\\Desktop\\PracticaGit\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\Documents\\GitHub\\PracticaGit\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\Alumno\\Desktop\\PracticaGit\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
